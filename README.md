@@ -22,4 +22,4 @@ This project compares the performance of Convolutional Neural Networks (CNN) and
 4. Run the notebooks in order.
 
 ## Article
-Read the full breakdown of this experiment on my Medium blog: [Link to your article]
+Read the full breakdown of this experiment on my Medium blog: https://medium.com/@vivek.bhimavarapu/analysis-of-cnn-and-vit-using-brain-tumor-dataset-88ee3b968ea3?postPublishedType=initial
